@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/apollo/static/css/main.7d307112.chunk.css",
+    "main.js": "/apollo/static/js/main.938febf4.chunk.js",
+    "main.js.map": "/apollo/static/js/main.938febf4.chunk.js.map",
+    "runtime-main.js": "/apollo/static/js/runtime-main.b79fd0b7.js",
+    "runtime-main.js.map": "/apollo/static/js/runtime-main.b79fd0b7.js.map",
+    "static/js/2.c3858473.chunk.js": "/apollo/static/js/2.c3858473.chunk.js",
+    "static/js/2.c3858473.chunk.js.map": "/apollo/static/js/2.c3858473.chunk.js.map",
+    "static/js/3.b2c95cfa.chunk.js": "/apollo/static/js/3.b2c95cfa.chunk.js",
+    "static/js/3.b2c95cfa.chunk.js.map": "/apollo/static/js/3.b2c95cfa.chunk.js.map",
+    "index.html": "/apollo/index.html",
+    "static/css/main.7d307112.chunk.css.map": "/apollo/static/css/main.7d307112.chunk.css.map",
+    "static/js/2.c3858473.chunk.js.LICENSE.txt": "/apollo/static/js/2.c3858473.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/apollo/static/media/background_search_mobile.bfe57261.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b79fd0b7.js",
+    "static/js/2.c3858473.chunk.js",
+    "static/css/main.7d307112.chunk.css",
+    "static/js/main.938febf4.chunk.js"
+  ]
+}
